@@ -3,12 +3,12 @@
 <p align="left"> Hi, I'm  an aspiring full-stack developer passionate about building engaging and user-friendly web applications. I enjoy exploring new technologies, learning best practices, and turning creative ideas into functional code. My GitHub is a showcase of my journey in web development, featuring personal projects and experiments as I continue to grow my skills. I'm always eager to collaborate, contribute to open-source, and connect with fellow developers—let's build something amazing together!
 </p>
 
-<table style="border-collapse:collapse; border:none;">
+<table style="border-collapse:collapse; border:none !important;">
   <tr>
-    <td style="border:none; vertical-align:middle;">
+    <td style="border:none !important; vertical-align:middle;">
       <img alt="Stack" title="Stack" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" />
     </td>
-    <td style="border:none; vertical-align:middle;">
+    <td style="border:none !important; vertical-align:middle;">
       <h3 style="margin:0; padding-left:10px;">Stack</h3>
     </td>
   </tr>
