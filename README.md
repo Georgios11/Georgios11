@@ -33,7 +33,8 @@
 </div>
 
 
-
+<br>
+<br>
 - 🔭 I’m currently working on a MERN app. It is a e-commerce platform build to showcase my skills. The database is cached with Redis and state management and front end caching is done with Tanstack Query
   <!--
 **Georgios11/Georgios11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
