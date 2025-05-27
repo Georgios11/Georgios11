@@ -6,7 +6,7 @@
 
 <p>
   <img alt="Stack" title="Stack" width="40px" style="vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" />
-  <span style="font-size:1.8em; vertical-align: middle;"><strong>Stack</strong></span>
+  <span style="font-size:3em; vertical-align: middle;"><strong>Stack</strong></span>
 </p>
 
 <br>
