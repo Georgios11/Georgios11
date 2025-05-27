@@ -17,7 +17,7 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-original-wordmark.svg" />
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
-<img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" />
+<img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitest/vitest-plain.svg" />
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
 
 
