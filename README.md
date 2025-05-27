@@ -3,7 +3,7 @@
 <p align="left"> Hi, I'm  an aspiring full-stack developer passionate about building engaging and user-friendly web applications. I enjoy exploring new technologies, learning best practices, and turning creative ideas into functional code. My GitHub is a showcase of my journey in web development, featuring personal projects and experiments as I continue to grow my skills. I'm always eager to collaborate, contribute to open-source, and connect with fellow developers—let's build something amazing together!
 </p>
 
-<table>
+<table style="border=none">
   <tr>
     <td>
       <img alt="Stack" title="Stack" width="40px" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" />
