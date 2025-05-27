@@ -15,7 +15,7 @@
 </table>
 
 <br>
-<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Styled Components" title="Styled Components" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/styled-components.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
