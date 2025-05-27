@@ -3,8 +3,18 @@
 <p align="left"> Hi, I'm  an aspiring full-stack developer passionate about building engaging and user-friendly web applications. I enjoy exploring new technologies, learning best practices, and turning creative ideas into functional code. My GitHub is a showcase of my journey in web development, featuring personal projects and experiments as I continue to grow my skills. I'm always eager to collaborate, contribute to open-source, and connect with fellow developers—let's build something amazing together!
 </p>
 
-<img align="left" alt="Stack" title="Stack" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" /> ### Stack 
+<table>
+  <tr>
+    <td>
+      <img align="left" alt="Stack" title="Stack" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" />
+    </td>
+    <td>
+      <h3 style="margin:0; padding-left:10px;">Stack</h3>
+    </td>
+  </tr>
+</table>
 
+<br>
 <img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Styled Components" title="Styled Components" width="40px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/styled-components.png" />
