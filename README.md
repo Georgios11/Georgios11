@@ -4,7 +4,7 @@
 </p>
 
 
-<img alt="Stack" title="Stack" width="40px" style="vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" /> ### Stack
+<img alt="Stack" title="Stack" width="40px" style="vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" /> - Stack
 
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
