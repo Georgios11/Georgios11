@@ -6,7 +6,7 @@
 <table style="border=none">
   <tr>
     <td>
-      <img alt="Stack" title="Stack" width="40px" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" />
+      <img alt="Stack" title="Stack" width="40px" style="padding-bottom:5px;" src="https://cdn-icons-png.flaticon.com/128/18234/18234698.png" />
     </td>
     <td>
       <h3 style="margin:0; padding-left:10px;">Stack</h3>
@@ -33,9 +33,7 @@
 <img align="left" alt="Swagger" title="Swagger" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
 <img align="left" alt="Jest" title="Jest" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" />
 <img align="left" alt="React Testing Library" title="React Testing Library" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://blog.theodo.com/_astro/rq-logo.BjcQBfW7_fu5qu.webp" />
-<img align="left" alt="Vite" title="Vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
-
-
+<img align="left" alt="Vite" title="Vite" width="40px" style="padding-right:10px; padding-bottom:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
 
 
 
