@@ -13,7 +13,9 @@
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React Router" title="React Router" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactrouter/reactrouter-original-wordmark.svg" />
 <img align="left" alt="Redux Toolkit" title="Redux Toolkit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" />
+<img align="left" alt="Tanstack Query" title="Tanstack Query" width="30px" style="padding-right:10px;" src="https://tanstack.com/assets/splash-light-CHqMsyq8.png" />
 <img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" title="Express" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/express.png" />
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" />
