@@ -13,11 +13,12 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="Styled Components" title="Styled Components" width="40px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/styled-components.png" />
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="Vite" title="Vite" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Styled Components" title="Styled Components" width="40px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/styled-components.png" />
+  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="React Router" title="React Router" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactrouter/reactrouter-original-wordmark.svg" />
   <img alt="Redux Toolkit" title="Redux Toolkit" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" />
@@ -29,7 +30,6 @@
   <img alt="Swagger" title="Swagger" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
   <img alt="Jest" title="Jest" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" />
   <img alt="React Testing Library" title="React Testing Library" width="40px" src="https://blog.theodo.com/_astro/rq-logo.BjcQBfW7_fu5qu.webp" />
-  <img alt="Vite" title="Vite" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
 </div>
 
 
